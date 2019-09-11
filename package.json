@@ -1,7 +1,7 @@
 {
   "name": "markdown-it-picture",
   "version": "0.0.1",
-  "description": "MarkdownIt Plugin for picture",
+  "description": "MarkdownIt Plugin for html picture element with srcset",
   "keywords": [
     "markdown-it",
     "markdown-it-plugin"

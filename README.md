@@ -18,7 +18,7 @@ Render images within a `<picture>` element.
   />
   <source
     srcset="http://your.cdn/lg/image.jpg"
-     media="(min-width:1280px)"
+    media="(min-width:1280px)"
   />
   <img
     srcset="http://your.cdn/original/image.jpg"
